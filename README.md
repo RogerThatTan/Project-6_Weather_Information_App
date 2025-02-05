@@ -1,7 +1,5 @@
 # Weather Information App
 
----
-
 Built with ASP.NET Web API using a 3-Tier Architecture while following SOLID Principles.
 
 ---
