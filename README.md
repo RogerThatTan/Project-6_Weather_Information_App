@@ -1,4 +1,4 @@
-# Project-6 Weather Information App
+# Weather Information App
 
 ---
 
