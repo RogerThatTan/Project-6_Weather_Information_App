@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\xtanv\\OneDrive\\Desktop\\WeatherAPP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37038D17-BDBE-48F6-95B4-F6616FA682BC}|WeatherAPP\\WeatherAPP.csproj|c:\\users\\xtanv\\onedrive\\desktop\\weatherapp\\weatherapp\\controllers\\locationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37038D17-BDBE-48F6-95B4-F6616FA682BC}|WeatherAPP\\WeatherAPP.csproj|solutionrelative:weatherapp\\controllers\\locationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37038D17-BDBE-48F6-95B4-F6616FA682BC}|WeatherAPP\\WeatherAPP.csproj|c:\\users\\xtanv\\onedrive\\desktop\\weatherapp\\weatherapp\\controllers\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37038D17-BDBE-48F6-95B4-F6616FA682BC}|WeatherAPP\\WeatherAPP.csproj|solutionrelative:weatherapp\\controllers\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EBE8D45-A672-4300-84FB-D0FE0BA97A7A}|BLL\\BLL.csproj|c:\\users\\xtanv\\onedrive\\desktop\\weatherapp\\bll\\services\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EBE8D45-A672-4300-84FB-D0FE0BA97A7A}|BLL\\BLL.csproj|solutionrelative:bll\\services\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LocationController.cs",
+              "DocumentMoniker": "C:\\Users\\xtanv\\OneDrive\\Desktop\\WeatherAPP\\WeatherAPP\\Controllers\\LocationController.cs",
+              "RelativeDocumentMoniker": "WeatherAPP\\Controllers\\LocationController.cs",
+              "ToolTip": "C:\\Users\\xtanv\\OneDrive\\Desktop\\WeatherAPP\\WeatherAPP\\Controllers\\LocationController.cs",
+              "RelativeToolTip": "WeatherAPP\\Controllers\\LocationController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T04:01:10.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherController.cs",
+              "DocumentMoniker": "C:\\Users\\xtanv\\OneDrive\\Desktop\\WeatherAPP\\WeatherAPP\\Controllers\\WeatherController.cs",
+              "RelativeDocumentMoniker": "WeatherAPP\\Controllers\\WeatherController.cs",
+              "ToolTip": "C:\\Users\\xtanv\\OneDrive\\Desktop\\WeatherAPP\\WeatherAPP\\Controllers\\WeatherController.cs",
+              "RelativeToolTip": "WeatherAPP\\Controllers\\WeatherController.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAswF0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T03:59:04.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherService.cs",
+              "DocumentMoniker": "C:\\Users\\xtanv\\OneDrive\\Desktop\\WeatherAPP\\BLL\\Services\\WeatherService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\WeatherService.cs",
+              "ToolTip": "C:\\Users\\xtanv\\OneDrive\\Desktop\\WeatherAPP\\BLL\\Services\\WeatherService.cs",
+              "RelativeToolTip": "BLL\\Services\\WeatherService.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAIwGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T02:57:27.402Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
